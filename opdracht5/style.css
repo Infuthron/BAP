@@ -1,0 +1,28 @@
+@font-face {
+    font-family: myFont1;
+    src: url("fonts/cour.ttf");
+}
+
+body{
+    background: black;
+    font-family: myFont1;
+    text-align: center;
+    color: white;
+}
+
+textarea {
+    border: silver;
+}
+
+#input1 {
+    border: silver;
+}
+
+#input2 {
+    border: silver;
+}
+
+#input3 {
+    background-color: silver;
+    color: black;
+}
